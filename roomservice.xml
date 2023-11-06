@@ -15,4 +15,8 @@
   <project path="device/qcom/sepolicy_vndr-legacy-um" name="SOVIET-ANDROID/device-qcom-sepolicy_vndr" remote="github" clone-depth="1"  revision="13.0-legacy-um" />
   <project path="packages/apps/Dialer" name="SuperiorOS/android_packages_apps_Dialer" remote="github" clone-depth="1"  revision="thirteen" />
 
+  <project path="external/calyx/chromium" name="CalyxOS/platform_external_calyx_chromium" remote="gitlab" revision="android13" clone-depth="1" />
+  <project path="prebuilts/calyx/chromium/arm64" name="CalyxOS/platform_prebuilts_calyx_chromium_arm64" remote="gitlab" revision="android13" clone-depth="1" />
+  <project path="prebuilts/calyx/chromium/arm" name="CalyxOS/platform_prebuilts_calyx_chromium_arm" remote="gitlab" revision="android11-qpr1" clone-depth="1" />
+  <project path="prebuilts/calyx/chromium/x86" name="CalyxOS/platform_prebuilts_calyx_chromium_x86" remote="gitlab" revision="android13" clone-depth="1" />
 </manifest>
