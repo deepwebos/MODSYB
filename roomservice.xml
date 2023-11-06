@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/xiaomi/raphael" name="SOVIET-ANDROID/device_xiaomi_raphael" remote="github" clone-depth="1"  revision="13.0-DSP" />
+  <project path="hardware/qcom-caf/sm8150/display" name="SOVIET-ANDROID/platform_hardware_qcom_display" remote="github" clone-depth="1"  revision="13.0-8150" />
+  <project path="hardware/qcom-caf/sm8150/audio" name="SOVIET-ANDROID/platform_hardware_qcom_audio" remote="github" clone-depth="1"  revision="13.0-8150" />
+  <project path="hardware/qcom-caf/sm8150/media" name="SOVIET-ANDROID/platform_hardware_qcom_media" remote="github" clone-depth="1"  revision="13.0-8150" />
+  <project path="hardware/xiaomi" name="SOVIET-ANDROID/android_hardware_xiaomi" remote="github" clone-depth="1"  revision="13.0" />
+  <project path="vendor/qcom/common" name="ThankYouMario/proprietary_vendor_qcom_common" remote="github" clone-depth="1"  revision="topaz" />
+  <project path="device/qcom/common" name="yaap/device_qcom_common" remote="github" clone-depth="1"  revision="thirteen" />
+  <project path="kernel/xiaomi/raphael" name="SOVIET-ANDROID/kernel_xiaomi_raphael" remote="github" clone-depth="1"  revision="13.0-DSP" />
+  <project path="vendor/xiaomi/raphael" name="SOVIET-ANDROID/vendor_xiaomi_raphael" remote="github" clone-depth="1"  revision="13.0" />
+  <project path="prebuilts/clang/host/linux-x86/clang-r498229b" name="ThankYouMario/android_prebuilts_clang-standalone" remote="gitlab" clone-depth="1"  revision="17" />
+  <project path="vendor/xiaomi/miuicamera" name="kondors1995/vendor_xiaomi_miuicamera" remote="gitlab" clone-depth="1"  revision="leica-5.0-raphael" />
+  <project path="device/qcom/sepolicy_vndr-legacy-um" name="SOVIET-ANDROID/device-qcom-sepolicy_vndr" remote="github" clone-depth="1"  revision="13.0-legacy-um" />
+  <project path="packages/apps/Dialer" name="SuperiorOS/android_packages_apps_Dialer" remote="github" clone-depth="1"  revision="thirteen" />
+
+</manifest>
